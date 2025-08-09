@@ -7,7 +7,7 @@ This project is a **Book Admin Panel**, designed to provide a comprehensive and 
 ## Demo
 
 Experience the live demo of the Book Admin Panel here:
-[https://nodejs-pr-book-admin-panel.onrender.com](https://nodejs-pr-book-admin-panel.onrender.com)
+[book-adminpanel](https://nodejs-pr-book-admin-panel.onrender.com)
 
 ## Features
 
